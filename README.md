@@ -1,0 +1,2 @@
+# EmailAddressValidFinal
+we need to build a bulk email verification service that can deal with all kinds of email servers like Gmail, Yahoo, Hotmail and get the lists cleaned perfectly, that includes all server infrastructures and any other addons we may need during building this app. We also need to maintain a good lists of disposable domains, spamtraps, honeypots and some known spam domains so we can filter the lists before we actually start cleaning the list by sending ping to  SMTP of the user.
